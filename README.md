@@ -49,3 +49,6 @@ elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
+![
+
+
