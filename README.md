@@ -1,19 +1,19 @@
 # M4UF1A2_DocumentarConMarkdown_-AlexVentura
 1. ¿Que es una página web?
 
-Conjunto de información que se encuentra en una dirección determinada de internet.
+   Conjunto de información que se encuentra en una dirección determinada de internet.
 
 2. ¿Que es un sitio web?
 
-Es una colección de páginas web que se agrupan y conectan entre sí, regularmente en el mismo dominio o subdominio.
+   Es una colección de páginas web que se agrupan y conectan entre sí, regularmente en el mismo dominio o subdominio.
 
 3. ¿Que es una aplicación web?
 
-Es un sitio Web que contiene páginas con contenido sin determinar, parcialmente o en su totalidad.
+   Es un sitio Web que contiene páginas con contenido sin determinar, parcialmente o en su totalidad.
 
 4. ¿Que es una herramienta ofimática?
 
-Son un conjunto de programas o software conocidos como suites ofimáticas.
+   Son un conjunto de programas o software conocidos como suites ofimáticas.
 
 [Enlace a Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Haciendo click vas al link")
 
@@ -26,10 +26,11 @@ Son un conjunto de programas o software conocidos como suites ofimáticas.
 | Google Meet | 💻 |
 | ... | ... |
 
-6. ¿Qué es un HTML?
+6. ¿Qué es un ```HTML```?
 
-Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
+   Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,14 +42,15 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
    
    </body>
    </html>
+   ```
    
-7. ¿Qué es CSS? 
+7. ¿Qué es ```CSS```? 
 
-CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
-elementos HTML deberían ser mostrados.
+   CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
+   elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![
+![flujo de trabajo](https://github.com/AlexVenRey/M4UF1A2_DocumentarConMarkdown_-lexVentura/blob/main/foto_trabajo.jpg "click para ir a la foto")
 
 
