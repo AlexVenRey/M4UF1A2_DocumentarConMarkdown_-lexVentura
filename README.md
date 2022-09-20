@@ -17,10 +17,11 @@ Son un conjunto de programas o software conocidos como suites ofimáticas.
 
 [Enlace a Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Haciendo click vas al link")
 
-| :Aplicaciones: | Visto |
-| :Google Docs: | ✔ |
-| :Google Slides: | ✔ |
-| :Google Sheets: | ✔ |
-| :Google Calendar: | 📅 |
-| :Google Meet: | 💻 |
+| Aplicaciones | Visto |
+| --------------- |----- |
+| Google Docs | ✔ |
+| Google Slides | ✔ |
+| Google Sheets | ✔ |
+| Google Calendar | 📅 |
+| Google Meet | 💻 |
 | ... | ... |
