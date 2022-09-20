@@ -8,4 +8,4 @@ Es un sitio Web que contiene páginas con contenido sin determinar, parcialmente
 4. ¿Que es una herramienta ofimática?
 Son un conjunto de programas o software conocidos como suites ofimáticas.
 
-[https://www.google.com/intl/es-419/chrome/browser-tools/](URL "el enlace lleva a Herramientas de Google")
+[Enlace a Herramientas de Google] (https://www.google.com/intl/es-419/chrome/browser-tools/ "Haciendo click vas al link")
